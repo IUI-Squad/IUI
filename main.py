@@ -6,6 +6,7 @@ from fastapi.responses import JSONResponse
 import time
 from spotipy.exceptions import SpotifyException
 from collections import Counter
+from collections import defaultdict
 
 def safe_spotify_call(func, *args, **kwargs):
     while True:
@@ -104,7 +105,30 @@ def top_artists():
     # Save genre counts to separate JSON file
     with open("top_artists_medium_genre_counts.json", "w", encoding="utf-8") as f:
         json.dump(genre_counts, f, ensure_ascii=False, indent=4)
+    with open("top_artists_medium_genre_counts.json", "r", encoding="utf-8") as f:
+        genre_counts = json.load(f)
 
+    # Define main genre keywords
+    main_genres = ["house", "rap", "pop", "rock", "techno", "funk", "soul", "metal", "jazz", "trap", "indie", "electro"]
+
+    # Create a mapping of main genre to count
+    grouped_genres = defaultdict(int)
+
+    # Loop through your genre counts
+    for genre, count in genre_counts.items():
+        matched = False
+        for keyword in main_genres:
+            if keyword.lower() in genre.lower():
+                grouped_genres[keyword] += count
+                matched = True
+                break
+        if not matched:
+            grouped_genres["other"] += count
+
+    # Save to a new file
+    with open("top_artists_medium_main_genre_counts.json", "w", encoding="utf-8") as f:
+        json.dump(grouped_genres, f, ensure_ascii=False, indent=4)
+    # Return both artists and genre counts in the response
     # Return both artists and genre counts in the response
     return JSONResponse(content={
         "top_artists": artists,
@@ -154,7 +178,29 @@ def top_artists():
     # Save genre counts to separate JSON file
     with open("top_artists_long_genre_counts.json", "w", encoding="utf-8") as f:
         json.dump(genre_counts, f, ensure_ascii=False, indent=4)
+    with open("top_artists_long_genre_counts.json", "r", encoding="utf-8") as f:
+        genre_counts = json.load(f)
 
+    # Define main genre keywords
+    main_genres = ["house", "rap", "pop", "rock", "techno", "funk", "soul", "metal", "jazz", "trap", "indie", "electro"]
+
+    # Create a mapping of main genre to count
+    grouped_genres = defaultdict(int)
+
+    # Loop through your genre counts
+    for genre, count in genre_counts.items():
+        matched = False
+        for keyword in main_genres:
+            if keyword.lower() in genre.lower():
+                grouped_genres[keyword] += count
+                matched = True
+                break
+        if not matched:
+            grouped_genres["other"] += count
+
+    # Save to a new file
+    with open("top_artists_long_main_genre_counts.json", "w", encoding="utf-8") as f:
+        json.dump(grouped_genres, f, ensure_ascii=False, indent=4)
     # Return both artists and genre counts in the response
     return JSONResponse(content={
         "top_artists": artists,
@@ -204,7 +250,30 @@ def top_artists():
     # Save genre counts to separate JSON file
     with open("top_artists_short_genre_counts.json", "w", encoding="utf-8") as f:
         json.dump(genre_counts, f, ensure_ascii=False, indent=4)
+        
+    with open("top_artists_short_genre_counts.json", "r", encoding="utf-8") as f:
+        genre_counts = json.load(f)
 
+    # Define main genre keywords
+    main_genres = ["house", "rap", "pop", "rock", "techno", "funk", "soul", "metal", "jazz", "trap", "indie", "electro"]
+
+    # Create a mapping of main genre to count
+    grouped_genres = defaultdict(int)
+
+    # Loop through your genre counts
+    for genre, count in genre_counts.items():
+        matched = False
+        for keyword in main_genres:
+            if keyword.lower() in genre.lower():
+                grouped_genres[keyword] += count
+                matched = True
+                break
+        if not matched:
+            grouped_genres["other"] += count
+
+    # Save to a new file
+    with open("top_artists_short_main_genre_counts.json", "w", encoding="utf-8") as f:
+        json.dump(grouped_genres, f, ensure_ascii=False, indent=4)
     # Return both artists and genre counts in the response
     return JSONResponse(content={
         "top_artists": artists,
