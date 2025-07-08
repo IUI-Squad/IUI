@@ -1,9 +1,11 @@
+import json
 from fastapi import FastAPI
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from fastapi.responses import JSONResponse
 import time
 from spotipy.exceptions import SpotifyException
+from collections import Counter
 
 def safe_spotify_call(func, *args, **kwargs):
     while True:
@@ -44,44 +46,196 @@ def get_recently_played():
             "artist": track['artists'][0]['name'],
             "played_at": played_at
         })
-    return JSONResponse(content={"recently_played": tracks})
+
+    with open("recently_played.json", "w", encoding="utf-8") as f:
+        json.dump({"recently_played": tracks}, f, ensure_ascii=False, indent=4)
+     # Count recurring artists and tracks
+    artists = [entry["artist"] for entry in tracks]
+    track_names = [entry["track"] for entry in tracks]
+
+    artist_counts = Counter(artists)
+    track_counts = Counter(track_names)
+
+    recurring_artists = {artist: count for artist, count in artist_counts.items() if count > 1}
+    recurring_tracks = {track: count for track, count in track_counts.items() if count > 1}
+
+    # Detect back-to-back plays
+    back_to_back_tracks = []
+    for i in range(len(tracks) - 1):
+        if tracks[i]["track"] == tracks[i + 1]["track"]:
+            back_to_back_tracks.append({
+                "track": tracks[i]["track"],
+                "artist": tracks[i]["artist"],
+                "played_at_1": tracks[i]["played_at"],
+                "played_at_2": tracks[i + 1]["played_at"]
+            })
+
+    # Save recurring + back-to-back results
+    with open("recurring_counts.json", "w", encoding="utf-8") as f:
+        json.dump({
+            "recurring_artists": recurring_artists,
+            "recurring_tracks": recurring_tracks,
+            "back_to_back_tracks": back_to_back_tracks
+        }, f, ensure_ascii=False, indent=4)
+
+    return JSONResponse(content={
+        "recently_played": tracks,
+        "recurring_artists": recurring_artists,
+        "recurring_tracks": recurring_tracks,
+        "back_to_back_tracks": back_to_back_tracks
+    })
     
 @app.get("/top-artists")
 def top_artists():
     results = sp.current_user_top_artists(limit=50, time_range='medium_term')
+    # Extract artist data
     artists = [{"name": artist["name"], "genres": artist["genres"]} for artist in results['items']]
-    return JSONResponse(content={"top_artists": artists})
+
+    # Save artist data to JSON file
+    with open("top_artists_medium.json", "w", encoding="utf-8") as f:
+        json.dump({"top_artists": artists}, f, ensure_ascii=False, indent=4)
+
+    # Flatten list of genres for all artists
+    all_genres = [genre for artist in artists for genre in artist["genres"]]
+
+    # Count how often each genre appears
+    genre_counts = Counter(all_genres)
+
+    # Save genre counts to separate JSON file
+    with open("top_artists_medium_genre_counts.json", "w", encoding="utf-8") as f:
+        json.dump(genre_counts, f, ensure_ascii=False, indent=4)
+
+    # Return both artists and genre counts in the response
+    return JSONResponse(content={
+        "top_artists": artists,
+        "genre_counts": genre_counts
+    })
 
 @app.get("/top-tracks")
 def top_tracks():
     results = sp.current_user_top_tracks(limit=50, time_range='medium_term')
+    
+    # Extract track info
     tracks = [{"name": track["name"], "artist": track["artists"][0]["name"]} for track in results['items']]
-    return JSONResponse(content={"top_tracks": tracks})
+
+    # Save top tracks data to a JSON file
+    with open("top_tracks.json", "w", encoding="utf-8") as f:
+        json.dump({"top_tracks": tracks}, f, ensure_ascii=False, indent=4)
+
+    # Count how many tracks come from the same artist
+    artists = [track["artist"] for track in tracks]
+    artist_counts = Counter(artists)
+
+    # Save artist counts to a separate JSON file
+    with open("top_tracks_artist_counts.json", "w", encoding="utf-8") as f:
+        json.dump(artist_counts, f, ensure_ascii=False, indent=4)
+
+    return JSONResponse(content={
+        "top_tracks": tracks,
+        "artist_counts": artist_counts
+    })
 
 @app.get("/top-artists-long")
 def top_artists():
     results = sp.current_user_top_artists(limit=50, time_range='long_term')
+    # Extract artist data
     artists = [{"name": artist["name"], "genres": artist["genres"]} for artist in results['items']]
-    return JSONResponse(content={"top_artists": artists})
+
+    # Save artist data to JSON file
+    with open("top_artists_long.json", "w", encoding="utf-8") as f:
+        json.dump({"top_artists": artists}, f, ensure_ascii=False, indent=4)
+
+    # Flatten list of genres for all artists
+    all_genres = [genre for artist in artists for genre in artist["genres"]]
+
+    # Count how often each genre appears
+    genre_counts = Counter(all_genres)
+
+    # Save genre counts to separate JSON file
+    with open("top_artists_long_genre_counts.json", "w", encoding="utf-8") as f:
+        json.dump(genre_counts, f, ensure_ascii=False, indent=4)
+
+    # Return both artists and genre counts in the response
+    return JSONResponse(content={
+        "top_artists": artists,
+        "genre_counts": genre_counts
+    })
 
 @app.get("/top-tracks-long")
 def top_tracks():
     results = sp.current_user_top_tracks(limit=50, time_range='long_term')
+    # Extract track info
     tracks = [{"name": track["name"], "artist": track["artists"][0]["name"]} for track in results['items']]
-    return JSONResponse(content={"top_tracks": tracks})
+
+    # Save top tracks data to a JSON file
+    with open("top_tracks_longterm.json", "w", encoding="utf-8") as f:
+        json.dump({"top_tracks": tracks}, f, ensure_ascii=False, indent=4)
+
+    # Count how many tracks come from the same artist
+    artists = [track["artist"] for track in tracks]
+    artist_counts = Counter(artists)
+
+    # Save artist counts to a separate JSON file
+    with open("top_tracks_artist_counts_longterm.json", "w", encoding="utf-8") as f:
+        json.dump(artist_counts, f, ensure_ascii=False, indent=4)
+
+    return JSONResponse(content={
+        "top_tracks": tracks,
+        "artist_counts": artist_counts
+    })
 
 @app.get("/top-artists-short")
 def top_artists():
     results = sp.current_user_top_artists(limit=50, time_range='short_term')
+
+    # Extract artist data
     artists = [{"name": artist["name"], "genres": artist["genres"]} for artist in results['items']]
-    return JSONResponse(content={"top_artists": artists})
+
+    # Save artist data to JSON file
+    with open("top_artists_short.json", "w", encoding="utf-8") as f:
+        json.dump({"top_artists": artists}, f, ensure_ascii=False, indent=4)
+
+    # Flatten list of genres for all artists
+    all_genres = [genre for artist in artists for genre in artist["genres"]]
+
+    # Count how often each genre appears
+    genre_counts = Counter(all_genres)
+
+    # Save genre counts to separate JSON file
+    with open("top_artists_short_genre_counts.json", "w", encoding="utf-8") as f:
+        json.dump(genre_counts, f, ensure_ascii=False, indent=4)
+
+    # Return both artists and genre counts in the response
+    return JSONResponse(content={
+        "top_artists": artists,
+        "genre_counts": genre_counts
+    })
 
 @app.get("/top-tracks-short")
 def top_tracks():
     results = sp.current_user_top_tracks(limit=50, time_range='short_term')
     tracks = [{"name": track["name"], "artist": track["artists"][0]["name"]} for track in results['items']]
-    return JSONResponse(content={"top_tracks": tracks})
 
+    # Save top tracks data to a JSON file
+    with open("top_tracks_shortterm.json", "w", encoding="utf-8") as f:
+        json.dump({"top_tracks": tracks}, f, ensure_ascii=False, indent=4)
+
+    # Count how many tracks come from the same artist
+    artists = [track["artist"] for track in tracks]
+    artist_counts = Counter(artists)
+
+    # Save artist counts to a separate JSON file
+    with open("top_tracks_artist_counts_shortterm.json", "w", encoding="utf-8") as f:
+        json.dump(artist_counts, f, ensure_ascii=False, indent=4)
+
+    return JSONResponse(content={
+        "top_tracks": tracks,
+        "artist_counts": artist_counts
+    })
+
+
+
+# use with caution
 @app.get("/saved-tracks")
 def get_saved_tracks():
     saved_tracks = []
@@ -186,3 +340,4 @@ def get_all_playlist_tracks_with_genres():
             offset += 100
 
     return JSONResponse(content={"playlist_tracks": all_tracks})
+

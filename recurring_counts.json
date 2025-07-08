@@ -1,0 +1,44 @@
+{
+    "recurring_artists": {
+        "Hacim": 2,
+        "Clara La San": 2,
+        "prttyblu": 2,
+        "Ramzey": 7,
+        "verifiziert": 2,
+        "lenzy": 2,
+        "makko": 14,
+        "Boondawg": 4,
+        "01099": 2,
+        "Dante YN": 2
+    },
+    "recurring_tracks": {
+        "ALLES LEICHT": 2,
+        "Hochbegabt": 2,
+        "mkgee": 2,
+        "lenk mich raus": 2,
+        "Reiche Eltern": 2,
+        "NRW": 3,
+        "Amor": 2,
+        "Meine Mom meinte du wärst unsicher": 2
+    },
+    "back_to_back_tracks": [
+        {
+            "track": "NRW",
+            "artist": "Boondawg",
+            "played_at_1": "2025-07-08T12:23:03.499Z",
+            "played_at_2": "2025-07-08T12:22:46.677Z"
+        },
+        {
+            "track": "Amor",
+            "artist": "Ramzey",
+            "played_at_1": "2025-07-08T11:53:03.877Z",
+            "played_at_2": "2025-07-08T10:42:51.715Z"
+        },
+        {
+            "track": "Meine Mom meinte du wärst unsicher",
+            "artist": "makko",
+            "played_at_1": "2025-07-08T10:06:40.458Z",
+            "played_at_2": "2025-07-08T10:04:10.642Z"
+        }
+    ]
+}

@@ -1,0 +1,319 @@
+{
+    "top_artists": [
+        {
+            "name": "makko",
+            "genres": [
+                "german indie",
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "Dominic Fike",
+            "genres": []
+        },
+        {
+            "name": "Souly",
+            "genres": [
+                "german hip hop",
+                "german indie"
+            ]
+        },
+        {
+            "name": "CRO",
+            "genres": [
+                "german hip hop",
+                "german indie",
+                "german pop"
+            ]
+        },
+        {
+            "name": "Levin Liam",
+            "genres": [
+                "german indie",
+                "german pop"
+            ]
+        },
+        {
+            "name": "FIDLAR",
+            "genres": [
+                "garage rock",
+                "surf rock",
+                "skate punk",
+                "indie punk"
+            ]
+        },
+        {
+            "name": "K.I.Z",
+            "genres": [
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "Die drei ???",
+            "genres": []
+        },
+        {
+            "name": "Twenty One Pilots",
+            "genres": []
+        },
+        {
+            "name": "XXXTENTACION",
+            "genres": [
+                "emo rap"
+            ]
+        },
+        {
+            "name": "Lil Peep",
+            "genres": [
+                "emo rap",
+                "cloud rap"
+            ]
+        },
+        {
+            "name": "Enei",
+            "genres": [
+                "drum and bass",
+                "liquid funk",
+                "jungle"
+            ]
+        },
+        {
+            "name": "Tyler, The Creator",
+            "genres": []
+        },
+        {
+            "name": "gladde paling",
+            "genres": [
+                "gabber",
+                "drum and bass"
+            ]
+        },
+        {
+            "name": "SWMRS",
+            "genres": []
+        },
+        {
+            "name": "OVE",
+            "genres": [
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "Apsilon",
+            "genres": [
+                "german indie",
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "Paula Hartmann",
+            "genres": [
+                "german indie",
+                "german pop",
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "BIBIZA",
+            "genres": [
+                "german indie",
+                "neue deutsche welle"
+            ]
+        },
+        {
+            "name": "OK KID",
+            "genres": [
+                "german indie",
+                "german pop"
+            ]
+        },
+        {
+            "name": "Sant",
+            "genres": [
+                "german indie"
+            ]
+        },
+        {
+            "name": "b3nn3t",
+            "genres": [
+                "german indie",
+                "neue deutsche welle"
+            ]
+        },
+        {
+            "name": "TJARK",
+            "genres": [
+                "german indie",
+                "german pop"
+            ]
+        },
+        {
+            "name": "My Chemical Romance",
+            "genres": [
+                "emo",
+                "pop punk"
+            ]
+        },
+        {
+            "name": "DJ Bax",
+            "genres": [
+                "hard house"
+            ]
+        },
+        {
+            "name": "Killstation",
+            "genres": [
+                "emo rap",
+                "trap metal",
+                "cloud rap",
+                "horrorcore"
+            ]
+        },
+        {
+            "name": "Gorillaz",
+            "genres": []
+        },
+        {
+            "name": "slowthai",
+            "genres": [
+                "grime",
+                "uk grime"
+            ]
+        },
+        {
+            "name": "meat computer",
+            "genres": [
+                "hyperpop",
+                "cloud rap"
+            ]
+        },
+        {
+            "name": "Grafix",
+            "genres": [
+                "drum and bass",
+                "liquid funk"
+            ]
+        },
+        {
+            "name": "BUNT.",
+            "genres": [
+                "stutter house"
+            ]
+        },
+        {
+            "name": "K.Flay",
+            "genres": []
+        },
+        {
+            "name": "BETWEEN FRIENDS",
+            "genres": []
+        },
+        {
+            "name": "Boloboys",
+            "genres": [
+                "german indie"
+            ]
+        },
+        {
+            "name": "EDEN",
+            "genres": []
+        },
+        {
+            "name": "ZillaKami",
+            "genres": [
+                "trap metal",
+                "emo rap",
+                "horrorcore",
+                "rage rap"
+            ]
+        },
+        {
+            "name": "AllttA",
+            "genres": []
+        },
+        {
+            "name": "RIN",
+            "genres": [
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "Ski Aggu",
+            "genres": [
+                "german indie",
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "Kai Meyer",
+            "genres": []
+        },
+        {
+            "name": "City Morgue",
+            "genres": [
+                "trap metal",
+                "horrorcore",
+                "emo rap",
+                "rap metal",
+                "rage rap"
+            ]
+        },
+        {
+            "name": "Schmyt",
+            "genres": [
+                "german indie",
+                "german hip hop",
+                "german pop"
+            ]
+        },
+        {
+            "name": "toobrokeforfiji",
+            "genres": [
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "BHZ",
+            "genres": [
+                "german hip hop"
+            ]
+        },
+        {
+            "name": "Fox Stevenson",
+            "genres": [
+                "drum and bass",
+                "dubstep",
+                "drumstep"
+            ]
+        },
+        {
+            "name": "Oh Wonder",
+            "genres": []
+        },
+        {
+            "name": "Von Wegen Lisbeth",
+            "genres": [
+                "german indie",
+                "german pop"
+            ]
+        },
+        {
+            "name": "katlix",
+            "genres": [
+                "german indie"
+            ]
+        },
+        {
+            "name": "MAJAN",
+            "genres": [
+                "german indie",
+                "german hip hop",
+                "german pop"
+            ]
+        },
+        {
+            "name": "The Hunna",
+            "genres": []
+        }
+    ]
+}
