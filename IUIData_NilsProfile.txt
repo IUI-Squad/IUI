@@ -1,0 +1,1661 @@
+Recently Played: 
+{
+  "recently_played": [
+    {
+      "track": "Sound Barrier - Gydra Remix",
+      "artist": "Pythius",
+      "played_at": "2025-06-23T13:49:30.817Z"
+    },
+    {
+      "track": "Sound Barrier - Gydra Remix",
+      "artist": "Pythius",
+      "played_at": "2025-06-23T13:45:32.369Z"
+    },
+    {
+      "track": "Offender",
+      "artist": "Dimension",
+      "played_at": "2025-06-23T07:38:53.520Z"
+    },
+    {
+      "track": "Hardwired",
+      "artist": "Rameses B",
+      "played_at": "2025-06-23T07:31:53.211Z"
+    },
+    {
+      "track": "Lights",
+      "artist": "JOXION",
+      "played_at": "2025-06-23T07:26:55.142Z"
+    },
+    {
+      "track": "NORDWEST",
+      "artist": "DXVE",
+      "played_at": "2025-06-23T06:04:28.910Z"
+    },
+    {
+      "track": "HITZ 4 THE HOOD",
+      "artist": "Charlie Shell",
+      "played_at": "2025-06-23T06:02:29.328Z"
+    },
+    {
+      "track": "casino143",
+      "artist": "IVOXYGEN",
+      "played_at": "2025-06-23T05:59:58.457Z"
+    },
+    {
+      "track": "Secret",
+      "artist": "Mietze Conte",
+      "played_at": "2025-06-23T05:57:28.267Z"
+    },
+    {
+      "track": "My Type",
+      "artist": "Yvncc",
+      "played_at": "2025-06-23T05:55:28.285Z"
+    },
+    {
+      "track": "Blue",
+      "artist": "Frizzy P & Mr Cole",
+      "played_at": "2025-06-23T05:50:58.292Z"
+    },
+    {
+      "track": "Special",
+      "artist": "Plymhides",
+      "played_at": "2025-06-23T05:31:02.549Z"
+    },
+    {
+      "track": "Balenciaga",
+      "artist": "Kagoriii",
+      "played_at": "2025-06-23T05:29:23.679Z"
+    },
+    {
+      "track": "HUM0",
+      "artist": "CLTX",
+      "played_at": "2025-06-23T05:23:33.271Z"
+    },
+    {
+      "track": "Balenciaga",
+      "artist": "Kagoriii",
+      "played_at": "2025-06-23T05:18:35.557Z"
+    },
+    {
+      "track": "HUM0",
+      "artist": "CLTX",
+      "played_at": "2025-06-22T18:10:17.958Z"
+    },
+    {
+      "track": "For the Rowdies",
+      "artist": "Fenrick",
+      "played_at": "2025-06-22T18:05:39.788Z"
+    },
+    {
+      "track": "Drop It",
+      "artist": "Tanukichi",
+      "played_at": "2025-06-22T15:19:31.738Z"
+    },
+    {
+      "track": "Ice Cold",
+      "artist": "State of Mind",
+      "played_at": "2025-06-22T15:15:50.497Z"
+    },
+    {
+      "track": "The Red Berries",
+      "artist": "DJ Hazard",
+      "played_at": "2025-06-22T11:47:54.610Z"
+    },
+    {
+      "track": "The Shadows",
+      "artist": "Kanine",
+      "played_at": "2025-06-22T11:44:11.115Z"
+    },
+    {
+      "track": "Temperance",
+      "artist": "Sustance",
+      "played_at": "2025-06-22T11:39:46.393Z"
+    },
+    {
+      "track": "BE THERE",
+      "artist": "DIRTY GLASSEZ",
+      "played_at": "2025-06-22T11:35:16.533Z"
+    },
+    {
+      "track": "Teams",
+      "artist": "Kasim",
+      "played_at": "2025-06-22T11:31:31.652Z"
+    },
+    {
+      "track": "Lights",
+      "artist": "JOXION",
+      "played_at": "2025-06-22T11:28:49.981Z"
+    },
+    {
+      "track": "NORDWEST",
+      "artist": "DXVE",
+      "played_at": "2025-06-22T11:25:21.534Z"
+    },
+    {
+      "track": "Drowning",
+      "artist": "CHROMEBODIES",
+      "played_at": "2025-06-22T11:23:16.642Z"
+    },
+    {
+      "track": "PRESTON",
+      "artist": "Bouncy",
+      "played_at": "2025-06-22T11:20:56.742Z"
+    },
+    {
+      "track": "HITZ 4 THE HOOD",
+      "artist": "Charlie Shell",
+      "played_at": "2025-06-22T11:18:02.099Z"
+    },
+    {
+      "track": "casino143",
+      "artist": "IVOXYGEN",
+      "played_at": "2025-06-22T11:15:39.793Z"
+    },
+    {
+      "track": "Secret",
+      "artist": "Mietze Conte",
+      "played_at": "2025-06-22T11:13:00.904Z"
+    },
+    {
+      "track": "ON REPEAT",
+      "artist": "Memento Mori",
+      "played_at": "2025-06-22T11:11:03.416Z"
+    },
+    {
+      "track": "bad flavour - Gbnga Remix",
+      "artist": "DANN",
+      "played_at": "2025-06-22T11:08:42.351Z"
+    },
+    {
+      "track": "Want For Love",
+      "artist": "Angel Karel",
+      "played_at": "2025-06-22T11:05:49.588Z"
+    },
+    {
+      "track": "I Never Party in Paris",
+      "artist": "LB aka LABAT",
+      "played_at": "2025-06-22T11:02:20.644Z"
+    },
+    {
+      "track": "Human",
+      "artist": "WILL FERRO",
+      "played_at": "2025-06-22T10:58:54.105Z"
+    },
+    {
+      "track": "GUT AUS",
+      "artist": "badchieff",
+      "played_at": "2025-06-22T10:55:26.414Z"
+    },
+    {
+      "track": "My Type",
+      "artist": "Yvncc",
+      "played_at": "2025-06-22T10:53:17.143Z"
+    },
+    {
+      "track": "Drip Drip Woop",
+      "artist": "Dragan Zaranoff",
+      "played_at": "2025-06-22T10:50:26.682Z"
+    },
+    {
+      "track": "Dreh den auf",
+      "artist": "Souly",
+      "played_at": "2025-06-22T10:45:52.343Z"
+    },
+    {
+      "track": "Victory Lap",
+      "artist": "Fred again..",
+      "played_at": "2025-06-22T10:43:06.365Z"
+    },
+    {
+      "track": "Jammin",
+      "artist": "RUBII",
+      "played_at": "2025-06-22T10:40:20.779Z"
+    },
+    {
+      "track": "Blue",
+      "artist": "Frizzy P & Mr Cole",
+      "played_at": "2025-06-22T10:37:30.872Z"
+    },
+    {
+      "track": "Missing You",
+      "artist": "Target Demographic",
+      "played_at": "2025-06-22T10:34:16.366Z"
+    },
+    {
+      "track": "Special",
+      "artist": "Plymhides",
+      "played_at": "2025-06-22T10:30:26.078Z"
+    },
+    {
+      "track": "Blue",
+      "artist": "Frizzy P & Mr Cole",
+      "played_at": "2025-06-21T19:43:38.156Z"
+    },
+    {
+      "track": "DNB Religion",
+      "artist": "Terrence & Phillip",
+      "played_at": "2025-06-21T18:07:13.586Z"
+    },
+    {
+      "track": "Tell Me",
+      "artist": "Mozey",
+      "played_at": "2025-06-21T17:07:02.273Z"
+    },
+    {
+      "track": "Tell Me",
+      "artist": "Mozey",
+      "played_at": "2025-06-21T17:04:34.602Z"
+    },
+    {
+      "track": "IJDK",
+      "artist": "Justin Hawkes",
+      "played_at": "2025-06-21T16:03:01.532Z"
+    }
+  ]
+}
+Top Artists: 
+{
+  "top_artists": [
+    {
+      "name": "makko",
+      "genres": [
+        "german indie",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Souly",
+      "genres": [
+        "german hip hop",
+        "german indie"
+      ]
+    },
+    {
+      "name": "CRO",
+      "genres": [
+        "german hip hop",
+        "german pop",
+        "german indie"
+      ]
+    },
+    {
+      "name": "Levin Liam",
+      "genres": [
+        "german indie",
+        "german pop"
+      ]
+    },
+    {
+      "name": "FIDLAR",
+      "genres": [
+        "garage rock",
+        "surf rock",
+        "skate punk",
+        "indie punk"
+      ]
+    },
+    {
+      "name": "Twenty One Pilots",
+      "genres": []
+    },
+    {
+      "name": "Dominic Fike",
+      "genres": []
+    },
+    {
+      "name": "K.I.Z",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "XXXTENTACION",
+      "genres": [
+        "emo rap"
+      ]
+    },
+    {
+      "name": "Die drei ???",
+      "genres": []
+    },
+    {
+      "name": "SWMRS",
+      "genres": []
+    },
+    {
+      "name": "Enei",
+      "genres": [
+        "drum and bass",
+        "liquid funk",
+        "jungle"
+      ]
+    },
+    {
+      "name": "Gorillaz",
+      "genres": []
+    },
+    {
+      "name": "Tyler, The Creator",
+      "genres": []
+    },
+    {
+      "name": "gladde paling",
+      "genres": [
+        "gabber",
+        "drum and bass"
+      ]
+    },
+    {
+      "name": "BIBIZA",
+      "genres": [
+        "german indie",
+        "neue deutsche welle"
+      ]
+    },
+    {
+      "name": "Lil Peep",
+      "genres": [
+        "emo rap",
+        "cloud rap"
+      ]
+    },
+    {
+      "name": "b3nn3t",
+      "genres": [
+        "german indie",
+        "neue deutsche welle"
+      ]
+    },
+    {
+      "name": "BETWEEN FRIENDS",
+      "genres": []
+    },
+    {
+      "name": "OVE",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Apsilon",
+      "genres": [
+        "german indie",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "OK KID",
+      "genres": [
+        "german indie",
+        "german pop"
+      ]
+    },
+    {
+      "name": "My Chemical Romance",
+      "genres": [
+        "emo",
+        "pop punk"
+      ]
+    },
+    {
+      "name": "Sant",
+      "genres": [
+        "german indie"
+      ]
+    },
+    {
+      "name": "EDEN",
+      "genres": []
+    },
+    {
+      "name": "Boloboys",
+      "genres": [
+        "german indie"
+      ]
+    },
+    {
+      "name": "mischluft",
+      "genres": [
+        "hard house",
+        "techno",
+        "trance",
+        "hypertechno",
+        "eurodance",
+        "bounce"
+      ]
+    },
+    {
+      "name": "Killstation",
+      "genres": [
+        "emo rap",
+        "trap metal",
+        "cloud rap",
+        "horrorcore"
+      ]
+    },
+    {
+      "name": "TJARK",
+      "genres": [
+        "german indie",
+        "german pop"
+      ]
+    },
+    {
+      "name": "DJ Bax",
+      "genres": [
+        "hard house"
+      ]
+    },
+    {
+      "name": "Paula Hartmann",
+      "genres": [
+        "german indie",
+        "german pop",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "meat computer",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
+      ]
+    },
+    {
+      "name": "City Morgue",
+      "genres": [
+        "trap metal",
+        "horrorcore",
+        "emo rap",
+        "rap metal",
+        "rage rap"
+      ]
+    },
+    {
+      "name": "K.Flay",
+      "genres": []
+    },
+    {
+      "name": "slowthai",
+      "genres": [
+        "grime",
+        "uk grime"
+      ]
+    },
+    {
+      "name": "Grafix",
+      "genres": [
+        "drum and bass",
+        "liquid funk"
+      ]
+    },
+    {
+      "name": "Fifteen",
+      "genres": []
+    },
+    {
+      "name": "BUNT.",
+      "genres": [
+        "stutter house"
+      ]
+    },
+    {
+      "name": "Ferdinand fka Left Boy",
+      "genres": []
+    },
+    {
+      "name": "BHZ",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Trailerpark",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "katlix",
+      "genres": [
+        "german indie"
+      ]
+    },
+    {
+      "name": "ZillaKami",
+      "genres": [
+        "trap metal",
+        "emo rap",
+        "horrorcore",
+        "rage rap"
+      ]
+    },
+    {
+      "name": "AllttA",
+      "genres": []
+    },
+    {
+      "name": "Fox Stevenson",
+      "genres": [
+        "drum and bass",
+        "dubstep",
+        "drumstep"
+      ]
+    },
+    {
+      "name": "LUVRE47",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "SSIO",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Ski Aggu",
+      "genres": [
+        "german indie",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Kai Meyer",
+      "genres": []
+    },
+    {
+      "name": "RIN",
+      "genres": [
+        "german hip hop"
+      ]
+    }
+  ]
+}
+
+top tracks: 
+{
+  "top_tracks": [
+    {
+      "name": "Regen",
+      "artist": "OG Keemo"
+    },
+    {
+      "name": "intro (vergiss mich nicht zu schnell)",
+      "artist": "Levin Liam"
+    },
+    {
+      "name": "UMARMUNG",
+      "artist": "OVE"
+    },
+    {
+      "name": "GEIST",
+      "artist": "makko"
+    },
+    {
+      "name": "probleme???",
+      "artist": "b3nn3t"
+    },
+    {
+      "name": "laced up",
+      "artist": "tsubi club"
+    },
+    {
+      "name": "My Type",
+      "artist": "Yvncc"
+    },
+    {
+      "name": "auf den",
+      "artist": "Levin Liam"
+    },
+    {
+      "name": "STREIT",
+      "artist": "makko"
+    },
+    {
+      "name": "L&W",
+      "artist": "OVE"
+    },
+    {
+      "name": "Bad Habit",
+      "artist": "Steve Lacy"
+    },
+    {
+      "name": "herz setzt aus",
+      "artist": "bruder brian"
+    },
+    {
+      "name": "Your Special",
+      "artist": "Q"
+    },
+    {
+      "name": "UNDERCOVER",
+      "artist": "makko"
+    },
+    {
+      "name": "Father Time (feat. Sampha)",
+      "artist": "Kendrick Lamar"
+    },
+    {
+      "name": "Unsicher",
+      "artist": "Nina Chuba"
+    },
+    {
+      "name": "Kein Happy End",
+      "artist": "Paula Hartmann"
+    },
+    {
+      "name": "wenn dann",
+      "artist": "beslik"
+    },
+    {
+      "name": "Dreh den auf",
+      "artist": "Souly"
+    },
+    {
+      "name": "Ok",
+      "artist": "Teehkaye"
+    },
+    {
+      "name": "fkngrt",
+      "artist": "CRO"
+    },
+    {
+      "name": "Lauf Weg",
+      "artist": "Apsilon"
+    },
+    {
+      "name": "gesund/krank",
+      "artist": "b3nn3t"
+    },
+    {
+      "name": "einaus",
+      "artist": "GERO"
+    },
+    {
+      "name": "Outro",
+      "artist": "RIN"
+    },
+    {
+      "name": "No.1キャバ嬢をつくろう!",
+      "artist": "SEGA SOUND TEAM"
+    },
+    {
+      "name": "Märchenwald",
+      "artist": "CRO"
+    },
+    {
+      "name": "Laut Denken",
+      "artist": "Flavio"
+    },
+    {
+      "name": "Strawberry",
+      "artist": "Roy Blair"
+    },
+    {
+      "name": "Spaceman - QZB Remix",
+      "artist": "Kasra"
+    },
+    {
+      "name": "hau rein",
+      "artist": "moi"
+    },
+    {
+      "name": "where i'm from",
+      "artist": "Traya"
+    },
+    {
+      "name": "trauen",
+      "artist": "Levin Liam"
+    },
+    {
+      "name": "Real Love - Remix",
+      "artist": "Vlinder Vos"
+    },
+    {
+      "name": "Gucci Flip Flops",
+      "artist": "DJ Bax"
+    },
+    {
+      "name": "sonne+staub",
+      "artist": "luciferslegacy"
+    },
+    {
+      "name": "Don't call me",
+      "artist": "JOKESONYOU"
+    },
+    {
+      "name": "GUT AUS",
+      "artist": "badchieff"
+    },
+    {
+      "name": "OK YES",
+      "artist": "pluko"
+    },
+    {
+      "name": "tik tok",
+      "artist": "gladde paling"
+    },
+    {
+      "name": "Bastnerd",
+      "artist": "Akutkarl"
+    },
+    {
+      "name": "Godspeed",
+      "artist": "999 Heartake Sabileye"
+    },
+    {
+      "name": "FASSADE",
+      "artist": "KIKI"
+    },
+    {
+      "name": "Angst",
+      "artist": "BRKN"
+    },
+    {
+      "name": "Schalldämpfer",
+      "artist": "Akutkarl"
+    },
+    {
+      "name": "KIPPE",
+      "artist": "Dominik Hartz"
+    },
+    {
+      "name": "Victory Lap",
+      "artist": "Fred again.."
+    },
+    {
+      "name": "Ginseng Strip 303",
+      "artist": "MARK BLAIR"
+    },
+    {
+      "name": "Westcoast Collective",
+      "artist": "Dominic Fike"
+    },
+    {
+      "name": "Stahlbeton",
+      "artist": "Leo Kaminski"
+    }
+  ]
+}
+
+top artists long: 
+{
+  "top_artists": [
+    {
+      "name": "makko",
+      "genres": [
+        "german indie",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Souly",
+      "genres": [
+        "german hip hop",
+        "german indie"
+      ]
+    },
+    {
+      "name": "Fifteen",
+      "genres": []
+    },
+    {
+      "name": "Team Scheisse",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "name": "Lil Peep",
+      "genres": [
+        "emo rap",
+        "cloud rap"
+      ]
+    },
+    {
+      "name": "XXXTENTACION",
+      "genres": [
+        "emo rap"
+      ]
+    },
+    {
+      "name": "Ski Aggu",
+      "genres": [
+        "german indie",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Dominic Fike",
+      "genres": []
+    },
+    {
+      "name": "Yung Hurn",
+      "genres": [
+        "german hip hop",
+        "cloud rap"
+      ]
+    },
+    {
+      "name": "Pisse",
+      "genres": [
+        "egg punk"
+      ]
+    },
+    {
+      "name": "CRO",
+      "genres": [
+        "german hip hop",
+        "german pop",
+        "german indie"
+      ]
+    },
+    {
+      "name": "FIDLAR",
+      "genres": [
+        "garage rock",
+        "surf rock",
+        "skate punk",
+        "indie punk"
+      ]
+    },
+    {
+      "name": "K.I.Z",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Juice WRLD",
+      "genres": [
+        "melodic rap",
+        "emo rap"
+      ]
+    },
+    {
+      "name": "City Morgue",
+      "genres": [
+        "trap metal",
+        "horrorcore",
+        "emo rap",
+        "rap metal",
+        "rage rap"
+      ]
+    },
+    {
+      "name": "toobrokeforfiji",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "BURNOUT OSTWEST",
+      "genres": [
+        "egg punk",
+        "punk"
+      ]
+    },
+    {
+      "name": "Twenty One Pilots",
+      "genres": []
+    },
+    {
+      "name": "Mac Miller",
+      "genres": []
+    },
+    {
+      "name": "BHZ",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Arctic Monkeys",
+      "genres": [
+        "indie",
+        "garage rock"
+      ]
+    },
+    {
+      "name": "Killstation",
+      "genres": [
+        "emo rap",
+        "trap metal",
+        "cloud rap",
+        "horrorcore"
+      ]
+    },
+    {
+      "name": "Yxngxr1",
+      "genres": []
+    },
+    {
+      "name": "RIN",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "ZillaKami",
+      "genres": [
+        "trap metal",
+        "emo rap",
+        "horrorcore",
+        "rage rap"
+      ]
+    },
+    {
+      "name": "SWMRS",
+      "genres": []
+    },
+    {
+      "name": "Longus Mongus",
+      "genres": [
+        "german hip hop",
+        "german indie"
+      ]
+    },
+    {
+      "name": "Miksu / Macloud",
+      "genres": [
+        "german hip hop",
+        "german indie"
+      ]
+    },
+    {
+      "name": "Fred again..",
+      "genres": [
+        "stutter house",
+        "house"
+      ]
+    },
+    {
+      "name": "Levin Liam",
+      "genres": [
+        "german indie",
+        "german pop"
+      ]
+    },
+    {
+      "name": "Rrotzer",
+      "genres": [
+        "german indie"
+      ]
+    },
+    {
+      "name": "Gorillaz",
+      "genres": []
+    },
+    {
+      "name": "Boondawg",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Lulu & Die Einhornfarm",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "name": "Bazzazian",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "$OHO BANI",
+      "genres": [
+        "german indie",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "My Chemical Romance",
+      "genres": [
+        "emo",
+        "pop punk"
+      ]
+    },
+    {
+      "name": "Joji",
+      "genres": []
+    },
+    {
+      "name": "$uicideboy$",
+      "genres": [
+        "emo rap",
+        "horrorcore",
+        "cloud rap",
+        "trap metal",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "K.Flay",
+      "genres": []
+    },
+    {
+      "name": "Boloboys",
+      "genres": [
+        "german indie"
+      ]
+    },
+    {
+      "name": "EDEN",
+      "genres": []
+    },
+    {
+      "name": "Konny",
+      "genres": [
+        "folk punk",
+        "singer-songwriter",
+        "punk"
+      ]
+    },
+    {
+      "name": "OK KID",
+      "genres": [
+        "german indie",
+        "german pop"
+      ]
+    },
+    {
+      "name": "Symba",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Gianni Suave",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Brutalismus 3000",
+      "genres": [
+        "techno",
+        "hard techno",
+        "tekno",
+        "gabber",
+        "acid techno"
+      ]
+    },
+    {
+      "name": "Paramore",
+      "genres": [
+        "pop punk",
+        "emo"
+      ]
+    },
+    {
+      "name": "Pan Kee-Bois",
+      "genres": [
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Ferdinand fka Left Boy",
+      "genres": []
+    }
+  ]
+}
+
+top tracks long:
+{
+  "top_tracks": [
+    {
+      "name": "Abends Szeneputzen",
+      "artist": "BURNOUT OSTWEST"
+    },
+    {
+      "name": "Glitzer",
+      "artist": "Bazzazian"
+    },
+    {
+      "name": "mein eigener held",
+      "artist": "Fifteen"
+    },
+    {
+      "name": "Skins UK",
+      "artist": "toobrokeforfiji"
+    },
+    {
+      "name": "wenn das cool für dich ist",
+      "artist": "Fifteen"
+    },
+    {
+      "name": "Bigboy",
+      "artist": "makko"
+    },
+    {
+      "name": "Ich will",
+      "artist": "Miksu / Macloud"
+    },
+    {
+      "name": "gleiche alte Jeans",
+      "artist": "Souly"
+    },
+    {
+      "name": ":/",
+      "artist": "Fifteen"
+    },
+    {
+      "name": "Regen",
+      "artist": "OG Keemo"
+    },
+    {
+      "name": "SNOWFLAKE",
+      "artist": "Okfella"
+    },
+    {
+      "name": "Prio",
+      "artist": "makko"
+    },
+    {
+      "name": "What AfD thinks we do...",
+      "artist": "AKNE KID JOE"
+    },
+    {
+      "name": "Hood Engel",
+      "artist": "Souly"
+    },
+    {
+      "name": "Finishline",
+      "artist": "Boondawg Archive"
+    },
+    {
+      "name": "für immer,",
+      "artist": "Fifteen"
+    },
+    {
+      "name": "Junkie",
+      "artist": "MAJAN"
+    },
+    {
+      "name": "intro (vergiss mich nicht zu schnell)",
+      "artist": "Levin Liam"
+    },
+    {
+      "name": "Bossbaby Intro",
+      "artist": "Souly"
+    },
+    {
+      "name": "Scheiß DDR",
+      "artist": "Pisse"
+    },
+    {
+      "name": "Yuppi",
+      "artist": "Konny"
+    },
+    {
+      "name": "Deutschland, du Opfer",
+      "artist": "Lulu & Die Einhornfarm"
+    },
+    {
+      "name": "Ratten im System",
+      "artist": "Kotzreiz"
+    },
+    {
+      "name": "Schmetterling",
+      "artist": "Team Scheisse"
+    },
+    {
+      "name": "Pferde Emblem",
+      "artist": "Souly"
+    },
+    {
+      "name": "Schutt & Asche",
+      "artist": "Bazzazian"
+    },
+    {
+      "name": "UMARMUNG",
+      "artist": "OVE"
+    },
+    {
+      "name": "Theorie und Praxis",
+      "artist": "Souly"
+    },
+    {
+      "name": "Licht",
+      "artist": "Souly"
+    },
+    {
+      "name": "Vorratskammer",
+      "artist": "Team Scheisse"
+    },
+    {
+      "name": "Tu me fais mal",
+      "artist": "siovo"
+    },
+    {
+      "name": "forever",
+      "artist": "lucidbeatz"
+    },
+    {
+      "name": "Elfmeterschießen",
+      "artist": "Team Scheisse"
+    },
+    {
+      "name": "Was Glück ist",
+      "artist": "TYM"
+    },
+    {
+      "name": "Politics & Violence",
+      "artist": "Dominic Fike"
+    },
+    {
+      "name": "Happy",
+      "artist": "Danju"
+    },
+    {
+      "name": "Ich liebe Dich für immer",
+      "artist": "Casanovas schwule Seite"
+    },
+    {
+      "name": "Shotta",
+      "artist": "Souly"
+    },
+    {
+      "name": "Fleisch & Geld",
+      "artist": "Bazzazian"
+    },
+    {
+      "name": "Filmriss",
+      "artist": "Knochenfabrik"
+    },
+    {
+      "name": "Die Anderen",
+      "artist": "Bazzazian"
+    },
+    {
+      "name": "GEIST",
+      "artist": "makko"
+    },
+    {
+      "name": "Bullen/Pisse",
+      "artist": "Mülheim Asozial"
+    },
+    {
+      "name": "Gedanken & Herz",
+      "artist": "Bazzazian"
+    },
+    {
+      "name": "Rauch-Haus-Song",
+      "artist": "Ton Steine Scherben"
+    },
+    {
+      "name": "probleme???",
+      "artist": "b3nn3t"
+    },
+    {
+      "name": "Ich lieb dich kaputt",
+      "artist": "Schmyt"
+    },
+    {
+      "name": "2-6",
+      "artist": "Fifteen"
+    },
+    {
+      "name": "Deutschland Verrecke (Barista Barista Antifascista!)",
+      "artist": "Alles.Scheisze"
+    },
+    {
+      "name": "laced up",
+      "artist": "tsubi club"
+    }
+  ]
+}
+
+top artists short: 
+{
+  "top_artists": [
+    {
+      "name": "Souly",
+      "genres": [
+        "german hip hop",
+        "german indie"
+      ]
+    },
+    {
+      "name": "Noimage",
+      "genres": [
+        "hard techno",
+        "techno",
+        "hard house",
+        "tekno"
+      ]
+    },
+    {
+      "name": "Terrence & Phillip",
+      "genres": [
+        "drum and bass",
+        "bassline",
+        "jungle"
+      ]
+    },
+    {
+      "name": "Mozey",
+      "genres": [
+        "drum and bass",
+        "bassline",
+        "jungle"
+      ]
+    },
+    {
+      "name": "Twenty One Pilots",
+      "genres": []
+    },
+    {
+      "name": "Panteros666",
+      "genres": [
+        "hard house",
+        "eurodance",
+        "hypertechno",
+        "trance"
+      ]
+    },
+    {
+      "name": "DJ Hazard",
+      "genres": [
+        "drum and bass",
+        "jungle",
+        "bassline"
+      ]
+    },
+    {
+      "name": "makko",
+      "genres": [
+        "german indie",
+        "german hip hop"
+      ]
+    },
+    {
+      "name": "Simula",
+      "genres": [
+        "drum and bass",
+        "bassline",
+        "liquid funk",
+        "jungle"
+      ]
+    },
+    {
+      "name": "ZillaKami",
+      "genres": [
+        "trap metal",
+        "emo rap",
+        "horrorcore",
+        "rage rap"
+      ]
+    },
+    {
+      "name": "Mika Heggemann",
+      "genres": [
+        "hard house",
+        "bounce",
+        "trance",
+        "hypertechno",
+        "eurodance"
+      ]
+    },
+    {
+      "name": "Gaston Fiore",
+      "genres": [
+        "hard house",
+        "hard techno",
+        "techno"
+      ]
+    },
+    {
+      "name": "Upgrade (UK)",
+      "genres": [
+        "drum and bass",
+        "bassline",
+        "jungle"
+      ]
+    },
+    {
+      "name": "Cara Elizabeth",
+      "genres": [
+        "bounce",
+        "hard house"
+      ]
+    },
+    {
+      "name": "mischluft",
+      "genres": [
+        "hard house",
+        "techno",
+        "trance",
+        "hypertechno",
+        "eurodance",
+        "bounce"
+      ]
+    },
+    {
+      "name": "Pythius",
+      "genres": [
+        "drum and bass",
+        "drumstep"
+      ]
+    },
+    {
+      "name": "Davyboi",
+      "genres": [
+        "hard house",
+        "bounce"
+      ]
+    }
+  ]
+}
+
+top tracks short: 
+{
+  "top_tracks": [
+    {
+      "name": "My Type",
+      "artist": "Yvncc"
+    },
+    {
+      "name": "Dreh den auf",
+      "artist": "Souly"
+    },
+    {
+      "name": "GUT AUS",
+      "artist": "badchieff"
+    },
+    {
+      "name": "Victory Lap",
+      "artist": "Fred again.."
+    },
+    {
+      "name": "Outro",
+      "artist": "RIN"
+    },
+    {
+      "name": "I Never Party in Paris",
+      "artist": "LB aka LABAT"
+    },
+    {
+      "name": "Time Tripping",
+      "artist": "DJ Hazard"
+    },
+    {
+      "name": "Teams",
+      "artist": "Kasim"
+    },
+    {
+      "name": "Human",
+      "artist": "WILL FERRO"
+    },
+    {
+      "name": "Want For Love",
+      "artist": "Angel Karel"
+    },
+    {
+      "name": "Drip Drip Woop",
+      "artist": "Dragan Zaranoff"
+    },
+    {
+      "name": "let you go - speed garage",
+      "artist": "TEKKNO GOD"
+    },
+    {
+      "name": "HITZ 4 THE HOOD",
+      "artist": "Charlie Shell"
+    },
+    {
+      "name": "PRESTON",
+      "artist": "Bouncy"
+    },
+    {
+      "name": "NORDWEST",
+      "artist": "DXVE"
+    },
+    {
+      "name": "Drowning",
+      "artist": "CHROMEBODIES"
+    },
+    {
+      "name": "bad flavour - Gbnga Remix",
+      "artist": "DANN"
+    },
+    {
+      "name": "BE THERE",
+      "artist": "DIRTY GLASSEZ"
+    },
+    {
+      "name": "2 Hard 2 Luv",
+      "artist": "BIIANCO"
+    },
+    {
+      "name": "Secret",
+      "artist": "Mietze Conte"
+    },
+    {
+      "name": "s&m",
+      "artist": "DJ Bax"
+    },
+    {
+      "name": "The Red Berries",
+      "artist": "DJ Hazard"
+    },
+    {
+      "name": "TRY NOT TO BOUNCE",
+      "artist": "Unromantic"
+    },
+    {
+      "name": "Supersonic (my existence)",
+      "artist": "Skrillex"
+    },
+    {
+      "name": "ON REPEAT",
+      "artist": "Memento Mori"
+    },
+    {
+      "name": "Temperance",
+      "artist": "Sustance"
+    },
+    {
+      "name": "casino143",
+      "artist": "IVOXYGEN"
+    },
+    {
+      "name": "Lights",
+      "artist": "JOXION"
+    },
+    {
+      "name": "ASCH AB!",
+      "artist": "rémi.fr"
+    },
+    {
+      "name": "sonne+staub",
+      "artist": "luciferslegacy"
+    },
+    {
+      "name": "Alicia Keys",
+      "artist": "Luca Kaminski"
+    },
+    {
+      "name": "make me feel like",
+      "artist": "SP4CKS"
+    },
+    {
+      "name": "The Shadows",
+      "artist": "Kanine"
+    },
+    {
+      "name": "HUM0",
+      "artist": "CLTX"
+    },
+    {
+      "name": "Junge Träume aus Gold",
+      "artist": "yung pepp"
+    },
+    {
+      "name": "Break It",
+      "artist": "Amplify"
+    },
+    {
+      "name": "Hit Them Pimps",
+      "artist": "B2"
+    },
+    {
+      "name": "Function",
+      "artist": "Upgrade (UK)"
+    },
+    {
+      "name": "Broken",
+      "artist": "Terrence & Phillip"
+    },
+    {
+      "name": "Submarine",
+      "artist": "Grafix"
+    },
+    {
+      "name": "Schweigen ist Gold",
+      "artist": "mon€"
+    },
+    {
+      "name": "1,60",
+      "artist": "Haiyti"
+    },
+    {
+      "name": "Atomic Pulse",
+      "artist": "Panteros666"
+    },
+    {
+      "name": "Hardwired",
+      "artist": "Rameses B"
+    },
+    {
+      "name": "Mirrored",
+      "artist": "InsideInfo"
+    },
+    {
+      "name": "Special",
+      "artist": "Plymhides"
+    },
+    {
+      "name": "Angry Dolphin",
+      "artist": "Gaston Fiore"
+    },
+    {
+      "name": "STARTAFIGHT",
+      "artist": "Joey Valence & Brae"
+    },
+    {
+      "name": "Original Bad Boy",
+      "artist": "Kings Of The Rollers"
+    },
+    {
+      "name": "Run",
+      "artist": "Part Time Killer"
+    }
+  ]
+}
+
